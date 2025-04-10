@@ -34,6 +34,8 @@ const  products = [{
   priceCents: 1899,
 }];
 */
+import {cart} from '../data/cart.js';
+const cart = [];
 
 let productsHTML = ``;
 
